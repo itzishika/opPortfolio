@@ -10,29 +10,29 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Nikhil",
-  logo_name: "Nikhil.g()",
-  nickname: "itznikhil / Nick",
-  full_name: "Nikhil Garg",
+  title2: "Ishika",
+  logo_name: "Ishika.g()",
+  nickname: "itzishika / Ishu",
+  full_name: "Ishika Agarwal",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1Mhtf6_5RRQlHvAEgM_ctp34TtJs_ZO-3qOKF9Zjj3MQ/edit?usp=sharing",
-  mail: "mailto:nikhilgarg983@gmail.com",
+    "https://docs.google.com/document/d/1ZmA8CbAK5zbg1yfOakyCOeK7-y5-kt5vpahgd2Vxrt0/edit?usp=sharing",
+  mail: "mailto:ishikaagarwal.bytecube@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/itznikhil",
-  linkedin: "https://www.linkedin.com/in/nikhil-garg-9a56ba233/",
-  gmail: "nikhilgarg983@gmail.com",
+  github: "https://github.com/itzishika",
+  linkedin: " ",
+  gmail: "ishikaagarwal.bytecube@gmail.com",
   gitlab: " ",
-  facebook: "https://www.facebook.com/co.nikhil.garg/",
-  tel: "Tel:+916396120175",
+  facebook: "https://www.facebook.com/profile.php?id=100081812041125",
+  tel: "Tel:+918923911807",
   contactform:
     "https://us9.list-manage.com/contact-form?u=3d3df8c91e9dce3b0897e2347&form_id=5685bf117664ef066f78acb001c0c4c8",
-  twitter: "https://twitter.com/NikhilG20623896",
-  instagram: "https://www.instagram.com/_garg_nikhil/",
+  twitter: " ",
+  instagram: "https://www.instagram.com/ishika_.agarwal_/",
 };
 
 const skills = {
@@ -664,7 +664,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "nikhil.jpg",
+    profile_image_path: "ishika.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -672,13 +672,13 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Medium.",
-    link: "https://medium.com/@nikhilgarg_44691",
+    link: " ",
     avatar_image_path: "blogs_image.svg",
   },
   calendlySection: {
     title: "Need any help with your projects?",
     subtitle: "Let's talk 15min. Let's establish your Action Plan.",
-    link: "https://calendly.com/nikhil_garg/30min",
+    link: "https://calendly.com/ishikaagarwal-bytecube/30min",
   },
 };
 
